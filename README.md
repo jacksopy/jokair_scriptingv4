@@ -1,6 +1,6 @@
 # jokair_scriptingv4
 this tool is for beginner. jokair_scripting is a script who launches attack for beginner
-
+need to be launch in fullscreen
 
 ## installation 
 ```
